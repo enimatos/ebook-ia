@@ -8,7 +8,19 @@
 ### 🤖 Projeto criado como desafio do curso "Santander 2024 - Fundamentos de IA para Devs" ministrado pelo instrutor Felipe Aguiar, com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
 
 
-### ${\color{lightblue}O \space trabalho \space foi \space  criado \space para \space dar \space uma \space breve \space introdução \space ao \space HTML \space para \space crianças \space apartir \space de \space 7 \space anos \space de \space idade.}$  ${\color{lightblue}Não \space visa \space ensiná-los \space a \space desenvolver \space 🌐, \space mas \space despertar \space o \space interesse \space pelo \space desenvolvimento. }$ 
+
+<div align="center">
+      <img width="400px" title="Capa" src="capaEbook.png"/>
+ 
+  ### $${\color{yellow}Aventuras \space HTML \space  - \space Primeiros \space códigos \space para \space a \space internet }$$
+</div>
+
+
+ 
+### ${\color{lightblue}Esse \space trabalho \space foi \space  criado \space para \space dar \space uma \space breve \space introdução \space ao \space HTML \space para \space crianças \space apartir \space de \space 7 \space anos \space de \space idade.}$  ${\color{lightblue}Não \space visa \space ensiná-los \space a \space desenvolver \space 🌐, \space mas \space despertar \space o \space interesse \space pelo \space desenvolvimento. }$ 
+
+
+[![Acompanhe](https://img.shields.io/badge/Visualize-Aqui-blue?style=for-the-badge&logo=github&logoColor=white&url=https://github.com/enimatos/ebook-ia/blob/main/EbookHTML.pdf)](https://github.com/enimatos/ebook-ia/blob/main/EbookHTML.pdf)
 
 
 ## 💻 Tecnologias utilizadas no projeto
@@ -23,7 +35,5 @@
 - Criação efetuada pelo Canva
 
 
-
-Criando um Ebook com ChatGPT & MidJourney
 
 
